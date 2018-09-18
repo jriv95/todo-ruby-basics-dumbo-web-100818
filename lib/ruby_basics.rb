@@ -12,8 +12,8 @@ def argue(argumentAccepted)
   return argumentAccepted
 end
 
-def greeting
-
+def greeting(arg1,arg2)
+  return "It is nice to see " + arg1 + " and " + arg2 + "."
 end
 
 def return_a_value
