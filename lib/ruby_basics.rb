@@ -21,7 +21,7 @@ def return_a_value(lowercaseDummy)
 end
 
 def last_evaluated_value(arg1)
-   arg1
+   "expert"
 end
 
 def pizza_party(vegan="cheese")
