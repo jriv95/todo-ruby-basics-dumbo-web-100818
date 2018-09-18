@@ -25,5 +25,5 @@ def last_evaluated_value
 end
 
 def pizza_party(vegan="cheese")
-  return "My vegan pizza will have " + vegan + "."
+  return vegan
 end
