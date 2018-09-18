@@ -16,9 +16,10 @@ def greeting(arg1,arg2)
   return "It is nice to see " + arg1 + " and " + arg2 + "."
 end
 
-def return_a_value
-
+def return_a_value(value)
+  return value
 end
+return_a_value("Nice")
 
 def last_evaluated_value
 
