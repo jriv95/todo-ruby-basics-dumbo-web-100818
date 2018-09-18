@@ -16,7 +16,7 @@ def greeting(arg1,arg2)
   return "It is nice to see " + arg1 + " and " + arg2 + "."
 end
 
-def return_a_value("Nice")
+def return_a_value("Arg1")
   return "Nice"
 end
 
