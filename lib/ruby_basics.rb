@@ -20,8 +20,8 @@ def return_a_value(lowercaseDummy)
   return lowercaseDummy
 end
 
-def last_evaluated_value(expert)
-  return expert
+def last_evaluated_value(arg1)
+  return arg1
 end
 
 def pizza_party(vegan="cheese")
