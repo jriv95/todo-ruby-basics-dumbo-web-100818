@@ -4,11 +4,12 @@ end
 division(12,2)
 
 def assign_variable(value)
-  
+  return value
 end
+assign_variable("Nice")
 
 def argue
-  
+
 end
 
 def greeting
